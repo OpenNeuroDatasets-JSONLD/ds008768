@@ -1,5 +1,14 @@
 # Resting-State EEG in Parkinson's Disease and Healthy Controls
 
+## IMPORTANT UPDATE AS OF OCTOBER 2ND 2026 ##
+## THIS DATASET IS UNDERGOING INTERNAL     ##
+## VALIDATION BY THE AUTHORS. PLEASE       ##
+## REFRAIN FROM USING OR ANALYZING THESE   ##
+## DATA UNTIL A NEW VERSION IS RELEASED.   ##
+## WE APPRECIATE YOUR PATIENCE. THANK YOU. ##
+#############################################
+#############################################
+
 ## Overview
 
 This dataset contains human resting-state electroencephalography (EEG) recordings collected from individuals with Parkinson's disease (PD) and healthy controls (HC). Recordings were acquired during eyes-open resting-state conditions.
