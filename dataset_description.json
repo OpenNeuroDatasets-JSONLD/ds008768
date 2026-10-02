@@ -26,5 +26,5 @@
             "Description": "Conversion and curation of existing BrainVision resting-state EEG recordings and associated participant and session metadata into BIDS format."
         }
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds008768.v2.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds008768.v2.0.1"
 }
